@@ -1,15 +1,28 @@
 {
-  "name": "proper_bookings",
-  "version": "0.1.0",
-  "private": true,
+  "name": "rentisha",
+  "version": "1.0.0",
+  "description": "rental management system",
+  "main": "server.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "test": "jest"
   },
-  "dependencies": {
-    "next": "10.2.3",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxthestranger/rentisha.git"
+  },
+  "keywords": [
+    "rentisha",
+    "rentals",
+    "apartment",
+    "management",
+    "system",
+    "houses",
+    "booking"
+  ],
+  "author": "Max The Stranger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxthestranger/rentisha/issues"
+  },
+  "homepage": "https://github.com/maxthestranger/rentisha#readme"
 }
