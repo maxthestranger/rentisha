@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/maxthestranger/rentisha/issues"
   },
-  "homepage": "https://github.com/maxthestranger/rentisha#readme"
+  "homepage": "https://github.com/maxthestranger/rentisha#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
